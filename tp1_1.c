@@ -24,6 +24,7 @@ función sizeof()
     printf(" \n la direccion de memoria almacenada por el puntero es de %d", pNum);
     printf(" \n la direccion de memoria de la variable %d", &num1);
     printf(" \n la direccion de memoria del puntero es %d", &pNum);
+    printf("\n el numero de bytes de la variable num1 es %d ", sizeof(num1));
     
 
 
